@@ -1,0 +1,4 @@
+br\senac\tads\dsw\exemplo2\model\Produto.class
+br\senac\tads\dsw\exemplo2\controller\ProdutoController.class
+br\senac\tads\dsw\exemplo2\repository\ProdutoRepository.class
+br\senac\tads\dsw\exemplo2\Exemplo2SpringBootTurmaBApplication.class
